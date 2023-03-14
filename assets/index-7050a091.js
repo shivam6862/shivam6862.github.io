@@ -10283,7 +10283,7 @@ const fm = {},
       webSiteName:
         "This is a simple fruit cutting game that users can come and play for fun",
       userId: "Language used: Html, Css and Jquery",
-      websiteLink: "https://github.com/shivam6862/shivam6862.github.io",
+      websiteLink: "https://github.com/shivam6862/Slice-Fruit",
     },
   ],
   Lh = () =>
