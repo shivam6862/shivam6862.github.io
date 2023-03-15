@@ -1,10 +1,10 @@
 ### Install
 
-To build and test you will need to install [foundry](https://github.com/shivam6862/portfolio).  After installing simple run
+To build and test you will need to install [github](https://github.com/shivam6862/portfolio).  After installing simple run
 
 ```sh
-npm install
-make build
+
+
 ```
 
 to compile the code.
