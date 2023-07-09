@@ -3,8 +3,8 @@
 To build and test you will need to install [github](https://github.com/shivam6862/portfolio). After installing simple run
 
 ```sh
-
-
+npm install
+make build
 ```
 
 to compile the code.
@@ -29,5 +29,3 @@ Feel free to fork this project and make your own portfolio website.
 member: (https://github.com/shivam6862) having fun.
 
 ## link
-
-(https://shivam6862.github.io/)
