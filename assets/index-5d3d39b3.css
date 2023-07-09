@@ -447,7 +447,7 @@ span {
     padding: 0;
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 520px) {
   ._tooling_box_1lw4z_73 {
     justify-content: center;
   }
