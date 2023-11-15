@@ -5,7 +5,7 @@
   align-items: center;
   padding: 2rem;
   background: linear-gradient(rgba(1, 3, 20, 0.1), rgba(58, 59, 74, 0.1)),
-    url(/profile.png) no-repeat fixed center/cover;
+    url(/profile.png) no-repeat fixed left/cover;
   height: 100vh;
 }
 ._row_isxm6_21 {
@@ -96,7 +96,7 @@
   align-items: center;
   padding: 2rem;
   background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url(/background.png) no-repeat fixed center/cover;
+    url(/background.png) no-repeat fixed left/cover;
 }
 ._row_174mw_17 {
   padding: 1rem;
@@ -226,7 +226,7 @@ span {
   align-items: center;
   padding: 1rem;
   background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url(/background.png) no-repeat fixed center/cover;
+    url(/background.png) no-repeat fixed left/cover;
 }
 ._row_1bv6o_17 {
   padding: 0.1rem 1rem;
@@ -485,7 +485,7 @@ span {
   align-items: center;
   padding: 2rem;
   background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url(/workingbackground.png) no-repeat fixed center/cover;
+    url(/workingbackground.png) no-repeat fixed left/cover;
 }
 ._row_4ayvq_17 {
   padding: 1rem;
@@ -580,7 +580,7 @@ span {
   transform: translate(-50%, -50%);
   z-index: 10000;
   background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url(/background.png) no-repeat fixed center/cover;
+    url(/background.png) no-repeat fixed left/cover;
   border-radius: 10px;
 }
 ._box_1rqzu_45 {
@@ -632,7 +632,7 @@ span {
 ._box_1rqzu_45 > button > a {
   text-decoration: none;
   font-weight: 900;
-  color: var(--secondary-color);
+  color: #cacaca;
 }
 ._cross_1rqzu_147 {
   position: absolute;
@@ -672,7 +672,7 @@ span {
 }
 ._contact_1bxfy_1 {
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2)),
-    url(/contact.png) no-repeat fixed center/cover;
+    url(/contact.png) no-repeat fixed left/cover;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -846,7 +846,7 @@ span {
   padding-bottom: 1rem;
   min-height: 10vh;
   background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url(/contact.png) no-repeat fixed center/cover;
+    url(/contact.png) no-repeat fixed left/cover;
 }
 ._container_fluid_1oaf3_15 {
   width: 100%;
@@ -1034,7 +1034,7 @@ a {
   border-bottom-left-radius: 5px;
   border-top-right-radius: 5px;
   background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url(/background.png) no-repeat fixed center/cover;
+    url(/background.png) no-repeat fixed left/cover;
 }
 ._logo_op8od_131 img {
   width: 60px;
@@ -1129,7 +1129,7 @@ a {
       rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
       rgba(0, 0, 0, 0.09) 0px 32px 16px;
     background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-      url(/background.png) no-repeat fixed center/cover;
+      url(/background.png) no-repeat fixed left/cover;
   }
   ._navigationmenuexpanded_op8od_291 li {
     text-align: center;
