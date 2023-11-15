@@ -662,6 +662,17 @@ span {
     height: 20vh;
   }
 }
+@media (max-width: 400px) {
+  ._box_1rqzu_45 > h1 {
+    font-size: 1.2rem;
+  }
+  ._box_1rqzu_45 > p {
+    font-size: 0.7rem;
+  }
+  ._box_1rqzu_45 {
+    overflow-y: scroll;
+  }
+}
 @keyframes _middle-top_1rqzu_1 {
   0% {
     transform: translateY(-50%);
